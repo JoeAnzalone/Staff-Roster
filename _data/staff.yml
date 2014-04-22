@@ -120,6 +120,10 @@
     slug: "sales"
     members:
       -
+        name: "Adam"
+        twitter: "adamrpaul"
+        google:
+      -
         name: "Christian"
         twitter: "cpimsner"
         google: "101710480123153573131"
