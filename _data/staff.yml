@@ -123,7 +123,11 @@
       -
         name: "Adam"
         twitter: "adamrpaul"
-        google:
+        google: ""
+      -
+        name: "Amy"
+        twitter: "AmyJRuss"
+        google: ""
       -
         name: "Christian"
         twitter: "cpimsner"
@@ -132,6 +136,10 @@
         name: "Dana"
         twitter: "danasiegal"
         google: "114828227483146903466"
+      -
+        name: "Gail"
+        twitter: "gailkoerner"
+        google: "113723042809827710699"
       -
         name: "Seth"
         twitter: "sethfleischman"
