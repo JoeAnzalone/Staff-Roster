@@ -52,17 +52,12 @@ a:hover, a:focus {
     clear: both;
 }
 
-.site-title a {
+.site-title {
     position: relative;
     font-family: 'Life Savers', cursive, serif;
     font-size: 1.75em;
     color: #000;
     text-shadow: 3px 3px #fff;
-}
-
-.site-title a:hover,
-.site-title a:focus {
-    text-decoration: none;
 }
 
 article {
