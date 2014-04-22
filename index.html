@@ -19,6 +19,11 @@ layout: default
             {% else %}
                 <div class="twitter"></div>
             {% endif %}
+            {% if member.github %}
+                <a class="github" href="https://github.com/{{ member.github }}" target="_blank">@{{ member.github }}</a>
+            {% else %}
+                <div class="github"></div>
+            {% endif %}
             <div class="g-wrapper"><div class="g-person" data-width="180" data-height="260" data-href="//plus.google.com/u/0/{{ member.google }}" data-rel="author"></div></div>
         </li>
     {% endfor %}

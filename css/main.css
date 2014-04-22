@@ -103,7 +103,8 @@ img {
     margin: 0.25em;
 }
 
-.staff-members .twitter {
+.staff-members .twitter,
+.staff-members .github {
     display: block;
     min-height: 1.5em;
 }

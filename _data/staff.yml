@@ -37,6 +37,7 @@
         name: "Matt"
         twitter: "MattKivitz"
         google: "102387259114433977151"
+        github: "mattkivitz"
   -
     name: "Developers"
     members:
@@ -44,6 +45,7 @@
         name: "Bilal"
         twitter: "bilal_allawala"
         google: "107755310216930698343"
+        github: "BilalA"
       -
         name: "Carl"
         twitter: "CarlSubick"
@@ -52,22 +54,28 @@
         name: "Eugene"
         twitter: "maddios69"
         google: "114174765781470526249"
+        github: "maddios"
       -
         name: "Joe"
         twitter: "HTMLbyJoe"
         google: "+JoeAnzaloneOfficial"
+        github: "JoeAnzalone"
       -
         name: "Nick"
         twitter: "NickTraitouros"
         google: "113269033307173391881"
+        github: "NickTraitouros"
       -
         name: "Paul"
         twitter: "pblakey"
         google: "101382335313676375920"
+        github: "paulrblakey"
       -
         name: "Rich"
         twitter: "richardmowatt1"
         google: "111815035101377718786"
+        github: "rbmowatt"
+        github: "rmowatt-public"
   -
     name: "Community"
     members:
