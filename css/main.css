@@ -127,6 +127,7 @@ nav a:focus {
 .staff-members > li {
     display: inline-block;
     margin: 0.25em;
+    min-width: 180px;
 }
 
 .staff-members .twitter,
