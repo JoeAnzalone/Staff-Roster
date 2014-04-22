@@ -1,6 +1,7 @@
 ---
   -
     name: "Exec"
+    slug: "exec"
     members:
       -
         name: "Bill"
@@ -20,6 +21,7 @@
         google: "103866814298179745271"
   -
     name: "Product Managers"
+    slug: "product-managers"
     members:
       -
         name: "Brian"
@@ -40,6 +42,7 @@
         github: "mattkivitz"
   -
     name: "Developers"
+    slug: "developers"
     members:
       -
         name: "Bilal"
@@ -78,6 +81,7 @@
         github: "rmowatt-public"
   -
     name: "Community"
+    slug: "community"
     members:
       -
         name: "Anna"
@@ -97,6 +101,7 @@
         google: "108988527483976594597"
   -
     name: "Account Management"
+    slug: "account-management"
     members:
       -
         name: "Dania"
@@ -112,6 +117,7 @@
         google: "112366260632297709647"
   -
     name: "Sales"
+    slug: "sales"
     members:
       -
         name: "Christian"
@@ -127,6 +133,7 @@
         google: ""
   -
     name: "Sys Ops"
+    slug: "sys-ops"
     members:
       -
         name: "Gabe"

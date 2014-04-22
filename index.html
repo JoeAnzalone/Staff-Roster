@@ -5,11 +5,18 @@ layout: default
 
 <h1>Staff Roster</h1>
 
+<nav>
+    <ul>
+        {% for team in site.data.staff %}
+        <li><a href="#{{ team.slug }}">{{ team.name }}</a></li>
+        {% endfor %}
+    </ul>
+</nav>
 
 <ul class="teams">
 {% for team in site.data.staff %}
     <li>
-    <h2>{{ team.name }}</h2>
+    <h2 id="{{ team.slug }}">{{ team.name }}</h2>
     <ul class="staff-members">
     {% for member in team.members %}
         <li>

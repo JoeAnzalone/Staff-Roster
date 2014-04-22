@@ -78,6 +78,32 @@ img {
     max-width: 100%;
 }
 
+nav ul {
+    padding: 0;
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav a {
+    background: #009ee9;
+    color: #fff;
+    border-radius: 0.25em;
+    padding: 0.25em 0.5em;
+    font-family: arial;
+    margin: 0.3em;
+    display: block;
+    border: 1px solid;
+}
+
+nav a:hover,
+nav a:focus {
+    background: #fff;
+    color: #009ee9;
+    text-decoration: none;
+}
 
 .teams {
     padding: 0;
