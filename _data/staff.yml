@@ -1,0 +1,130 @@
+---
+  -
+    name: "Exec"
+    members:
+      -
+        name: "Bill"
+        twitter: "bhil"
+        google: "110094123542948505691"
+      -
+        name: "Daphne"
+        twitter: "daphnekwon"
+        google: "115877687893304496471"
+      -
+        name: "Fred"
+        twitter: "fjambukeswaran"
+        google: "112162134122212503890"
+      -
+        name: "Jess"
+        twitter: "jessicagnon"
+        google: "103866814298179745271"
+  -
+    name: "Product Managers"
+    members:
+      -
+        name: "Brian"
+        twitter: "sp00fer"
+        google: "118211746294968957984"
+      -
+        name: "Chang"
+        twitter:
+        google: "103045329201175000705"
+      -
+        name: "Dan"
+        twitter:
+        google: "103523117099997170256"
+      -
+        name: "Matt"
+        twitter: "MattKivitz"
+        google: "102387259114433977151"
+  -
+    name: "Developers"
+    members:
+      -
+        name: "Bilal"
+        twitter: "bilal_allawala"
+        google: "107755310216930698343"
+      -
+        name: "Carl"
+        twitter: "CarlSubick"
+        google: "107298461015506871230"
+      -
+        name: "Eugene"
+        twitter: "maddios69"
+        google: "114174765781470526249"
+      -
+        name: "Joe"
+        twitter: "HTMLbyJoe"
+        google: "+JoeAnzaloneOfficial"
+      -
+        name: "Nick"
+        twitter: "NickTraitouros"
+        google: "113269033307173391881"
+      -
+        name: "Paul"
+        twitter: "pblakey"
+        google: "101382335313676375920"
+      -
+        name: "Rich"
+        twitter: "richardmowatt1"
+        google: "111815035101377718786"
+  -
+    name: "Community"
+    members:
+      -
+        name: "Anna"
+        twitter: "AnnaEBauer"
+        google: "101379156345994231345"
+      -
+        name: "Emily"
+        twitter: "ERoss_Traveler"
+        google: "103068923012073536246"
+      -
+        name: "Nicole"
+        twitter: "NKivitz"
+        google: "104244224637768825853"
+      -
+        name: "Teresa"
+        twitter: "tmcantwell"
+        google: "108988527483976594597"
+  -
+    name: "Account Management"
+    members:
+      -
+        name: "Dania"
+        twitter: "dguilfoyle515"
+        google: ""
+      -
+        name: "Jeanine"
+        twitter: "rnene"
+        google: "114895013532261371100"
+      -
+        name: "Rebecca"
+        twitter: "rebeccalgreen"
+        google: "112366260632297709647"
+  -
+    name: "Sales"
+    members:
+      -
+        name: "Christian"
+        twitter: "cpimsner"
+        google: "101710480123153573131"
+      -
+        name: "Dana"
+        twitter: "danasiegal"
+        google: "114828227483146903466"
+      -
+        name: "Seth"
+        twitter: "sethfleischman"
+        google: ""
+  -
+    name: "Sys Ops"
+    members:
+      -
+        name: "Gabe"
+        twitter:
+        google: "113898359969627033565"
+      -
+        name: "Kiryl"
+        twitter:
+        google: "116142996818415208608"

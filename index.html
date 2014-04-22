@@ -1,0 +1,28 @@
+---
+title:  Staff Roster
+layout: default
+---
+
+<h1>Staff Roster</h1>
+
+
+<ul class="teams">
+{% for team in site.data.staff %}
+    <li>
+    <h2>{{ team.name }}</h2>
+    <ul class="staff-members">
+    {% for member in team.members %}
+        <li>
+            <h3>{{ member.name }}</h3>
+            {% if member.twitter %}
+                <a class="twitter" href="https://twitter.com/{{ member.twitter }}" target="_blank">@{{ member.twitter }}</a>
+            {% else %}
+                <div class="twitter"></div>
+            {% endif %}
+            <div class="g-wrapper"><div class="g-person" data-width="180" data-height="260" data-href="//plus.google.com/u/0/{{ member.google }}" data-rel="author"></div></div>
+        </li>
+    {% endfor %}
+    </ul>
+    </li>
+{% endfor %}
+</ul>
