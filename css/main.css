@@ -53,11 +53,14 @@ a:hover, a:focus {
 }
 
 .site-title {
-    position: relative;
-    font-family: 'Life Savers', cursive, serif;
-    font-size: 1.75em;
-    color: #000;
-    text-shadow: 3px 3px #fff;
+    display: block;
+    margin: 0 auto;
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 108px;
+    height: 63px;
+    background: url('http://images.expotv.com/nexpo/branding/logo-expo.png') no-repeat;
 }
 
 article {
