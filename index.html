@@ -15,8 +15,8 @@ layout: default
 
 <ul class="teams">
 {% for team in site.data.staff %}
-    <li>
-    <h2 id="{{ team.slug }}">{{ team.name }}</h2>
+    <li id="{{ team.slug }}">
+    <h2>{{ team.name }}</h2>
     <ul class="staff-members">
     {% for member in team.members %}
         <li>
