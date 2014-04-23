@@ -31,7 +31,11 @@ layout: default
             {% else %}
                 <div class="github"></div>
             {% endif %}
-            <div class="g-wrapper"><div class="g-person" data-width="180" data-height="260" data-href="//plus.google.com/u/0/{{ member.google }}" data-rel="author"></div></div>
+            {% if member.google %}
+                <div class="g-wrapper"><div class="g-person" data-width="180" data-height="260" data-href="//plus.google.com/u/0/{{ member.google }}" data-rel="author"></div></div>
+            {% else %}
+                <div class="g-wrapper missing"><div class="shrug">¯\_(ツ)_/¯</div></div>
+            {% endif %}
         </li>
     {% endfor %}
     </ul>

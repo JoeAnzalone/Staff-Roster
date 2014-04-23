@@ -152,4 +152,18 @@ nav a:focus {
 .g-wrapper {
     display: inline-block;
     vertical-align: top;
+    min-width: 180px;
+    min-height: 199px;
+}
+
+.g-wrapper.missing {
+    background-color: #fff;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.g-wrapper.missing .shrug {
+    margin-top: 2em;
+    font-size: 1.5em;
 }

@@ -107,7 +107,7 @@
       -
         name: "Dania"
         twitter: "dguilfoyle515"
-        google: ""
+        google:
       -
         name: "Jeanine"
         twitter: "rnene"
@@ -127,7 +127,7 @@
       -
         name: "Amy"
         twitter: "AmyJRuss"
-        google: ""
+        google:
       -
         name: "Christian"
         twitter: "cpimsner"
@@ -143,7 +143,7 @@
       -
         name: "Seth"
         twitter: "sethfleischman"
-        google: ""
+        google:
   -
     name: "Sys Ops"
     slug: "sys-ops"
