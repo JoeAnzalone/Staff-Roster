@@ -166,4 +166,6 @@ nav a:focus {
 .g-wrapper.missing .shrug {
     margin-top: 2em;
     font-size: 1.5em;
+    color: #ccc;
+    color: rgba(0, 0, 0, 0.2);
 }
