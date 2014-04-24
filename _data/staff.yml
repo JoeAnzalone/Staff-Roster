@@ -83,8 +83,8 @@
         github: "rbmowatt"
         github: "rmowatt-public"
   -
-    name: "Community"
-    slug: "community"
+    name: "Content"
+    slug: "content"
     members:
       -
         name: "Anna"
