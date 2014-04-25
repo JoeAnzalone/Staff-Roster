@@ -7,10 +7,12 @@
         name: "Bill"
         twitter: "bhil"
         google: "110094123542948505691"
+        instagram: "billhildebolt"
       -
         name: "Daphne"
         twitter: "daphnekwon"
         google: "115877687893304496471"
+        instagram: "daphnekwon"
       -
         name: "Fred"
         twitter: "fjambukeswaran"
@@ -19,6 +21,7 @@
         name: "Jess"
         twitter: "jessicagnon"
         google: "103866814298179745271"
+        instagram: "tctmommy"
   -
     name: "Product Managers"
     slug: "product-managers"
@@ -28,16 +31,19 @@
         twitter: "sp00fer"
         google: "118211746294968957984"
         github: "sp00fer"
+        instagram: "sp00fer"
       -
         name: "Chang"
         twitter: "yucmyname"
         google: "103045329201175000705"
         github: "yucmyname"
+        instagram: "changwyu"
       -
         name: "Dan"
         twitter:
         google: "103523117099997170256"
         github: "dqmcmanus"
+        instagram: "dmac20"
       -
         name: "Matt"
         twitter: "MattKivitz"
@@ -66,6 +72,7 @@
         name: "Joe"
         twitter: "HTMLbyJoe"
         google: "+JoeAnzaloneOfficial"
+        instagram: "PicsByJoe"
         github: "JoeAnzalone"
       -
         name: "Nick"
@@ -91,18 +98,22 @@
         name: "Anna"
         twitter: "AnnaEBauer"
         google: "101379156345994231345"
+        instagram: "annaebauer"
       -
         name: "Emily"
         twitter: "ERoss_Traveler"
         google: "103068923012073536246"
+        instagram: "eross711"
       -
         name: "Nicole"
         twitter: "NKivitz"
         google: "104244224637768825853"
+        instagram: "nkivitz"
       -
         name: "Teresa"
         twitter: "tmcantwell"
         google: "108988527483976594597"
+        instagram: "tmcantwell"
   -
     name: "Account Management"
     slug: "account-management"
@@ -119,6 +130,7 @@
         name: "Rebecca"
         twitter: "rebeccalgreen"
         google: "112366260632297709647"
+        instagram: "rebeccalgreen"
   -
     name: "Sales"
     slug: "sales"

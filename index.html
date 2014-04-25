@@ -21,16 +21,17 @@ layout: default
     {% for member in team.members %}
         <li>
             <h3>{{ member.name }}</h3>
-            {% if member.twitter %}
-                <a title="Follow {{ member.name }} on Twitter" class="twitter" href="https://twitter.com/{{ member.twitter }}" target="_blank"><i class="fa fa-twitter"></i>{{ member.twitter }}</a>
-            {% else %}
-                <div class="twitter"></div>
-            {% endif %}
-            {% if member.github %}
-                <a title="Follow {{ member.name }} on GitHub" class="github" href="https://github.com/{{ member.github }}" target="_blank"><i class="fa fa-github"></i>{{ member.github }}</a>
-            {% else %}
-                <div class="github"></div>
-            {% endif %}
+            <div class="links">
+                {% if member.twitter %}
+                    <a title="Follow {{ member.name }} on Twitter" class="twitter" href="https://twitter.com/{{ member.twitter }}" target="_blank"><i class="fa fa-twitter"></i> {{ member.twitter }}</a>
+                {% endif %}
+                {% if member.instagram %}
+                    <a title="Follow {{ member.name }} on Instagram" class="instagram" href="https://instagram.com/{{ member.instagram }}" target="_blank"><i class="fa fa-instagram"></i> {{ member.instagram }}</a>
+                {% endif %}
+                {% if member.github %}
+                    <a title="Follow {{ member.name }} on GitHub" class="github" href="https://github.com/{{ member.github }}" target="_blank"><i class="fa fa-github"></i> {{ member.github }}</a>
+                {% endif %}
+            </div>
             {% if member.google %}
                 <div class="g-wrapper"><div class="g-person" data-width="180" data-height="260" data-href="//plus.google.com/u/0/{{ member.google }}" data-rel="author"></div></div>
             {% else %}

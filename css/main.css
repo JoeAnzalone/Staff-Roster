@@ -141,12 +141,15 @@ nav a:focus {
     display: inline-block;
     margin: 0.25em;
     min-width: 180px;
+    vertical-align: top;
 }
 
-.staff-members .twitter,
-.staff-members .github {
+.staff-members .links > a {
     display: block;
-    min-height: 1.5em;
+}
+
+.staff-members .links {
+    min-height: 93px;
 }
 
 .g-wrapper {
