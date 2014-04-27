@@ -23,13 +23,13 @@ layout: default
             <h3>{{ member.name }}</h3>
             <div class="links">
                 {% if member.twitter %}
-                    <a title="Follow {{ member.name }} on Twitter" class="twitter" href="https://twitter.com/{{ member.twitter }}" target="_blank"><i class="fa fa-twitter"></i> {{ member.twitter }}</a>
+                    <a title="Follow {{ member.name }} on Twitter" class="twitter" href="https://twitter.com/{{ member.twitter }}" target="_blank"><i class="fa fa-twitter"></i> <span class="username">{{ member.twitter }}</span></a>
                 {% endif %}
                 {% if member.instagram %}
-                    <a title="Follow {{ member.name }} on Instagram" class="instagram" href="https://instagram.com/{{ member.instagram }}" target="_blank"><i class="fa fa-instagram"></i> {{ member.instagram }}</a>
+                    <a title="Follow {{ member.name }} on Instagram" class="instagram" href="https://instagram.com/{{ member.instagram }}" target="_blank"><i class="fa fa-instagram"></i> <span class="username">{{ member.instagram }}</span></a>
                 {% endif %}
                 {% if member.github %}
-                    <a title="Follow {{ member.name }} on GitHub" class="github" href="https://github.com/{{ member.github }}" target="_blank"><i class="fa fa-github"></i> {{ member.github }}</a>
+                    <a title="Follow {{ member.name }} on GitHub" class="github" href="https://github.com/{{ member.github }}" target="_blank"><i class="fa fa-github"></i> <span class="username">{{ member.github }}</span></a>
                 {% endif %}
             </div>
             {% if member.google %}

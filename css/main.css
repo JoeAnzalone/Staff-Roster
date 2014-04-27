@@ -144,12 +144,15 @@ nav a:focus {
     vertical-align: top;
 }
 
-.staff-members .links > a {
-    display: block;
-}
-
-.staff-members .links {
-    min-height: 93px;
+.staff-members .links .username {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    border: 0;
 }
 
 .g-wrapper {
