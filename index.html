@@ -19,7 +19,7 @@ layout: default
     <h2>{{ team.name }}</h2>
     <ul class="staff-members">
     {% for member in team.members %}
-        <li>
+        <li{% if member.custom-class %} class="{{ member.custom-class }}"{% endif %}>
             <h3>{{ member.name }}</h3>
             <div class="links">
                 {% if member.website %}

@@ -139,6 +139,7 @@ nav a:focus {
 
 .staff-members > li {
     display: inline-block;
+    position: relative;
     margin: 0.25em;
     min-width: 180px;
     vertical-align: top;
@@ -183,4 +184,26 @@ nav a:focus {
     font-size: 1.5em;
     color: #ccc;
     color: rgba(0, 0, 0, 0.2);
+}
+
+.staff-members > li.dim {
+    opacity: 0.75;
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+.staff-members > li.sad:after {
+    content: ':(';
+    font-size: 4em;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    position: absolute;
+    bottom: -0.4em;
+    -webkit-transform: rotate(90deg);
+    width: 100%;
+    pointer-events: none;
 }
