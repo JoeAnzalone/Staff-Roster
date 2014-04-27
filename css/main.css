@@ -145,7 +145,12 @@ nav a:focus {
 }
 
 .staff-members .links {
-    min-height: 30px;
+    min-height: 35px;
+}
+
+.staff-members i {
+    font-size: 1.2em;
+    margin: 0.2em
 }
 
 .staff-members .links .username {
