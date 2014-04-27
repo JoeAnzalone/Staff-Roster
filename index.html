@@ -22,6 +22,9 @@ layout: default
         <li>
             <h3>{{ member.name }}</h3>
             <div class="links">
+                {% if member.website %}
+                    <a title="Visit {{ member.name }}'s website" class="website" href="{{ member.website }}" target="_blank"><i class="fa fa-globe"></i> <span class="username">{{ member.website }}</span></a>
+                {% endif %}
                 {% if member.twitter %}
                     <a title="Follow {{ member.name }} on Twitter" class="twitter" href="https://twitter.com/{{ member.twitter }}" target="_blank"><i class="fa fa-twitter"></i> <span class="username">{{ member.twitter }}</span></a>
                 {% endif %}

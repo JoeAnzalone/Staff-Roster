@@ -10,6 +10,7 @@
         instagram: "billhildebolt"
       -
         name: "Daphne"
+        website: "http://www.girlfounder.com/"
         twitter: "daphnekwon"
         google: "115877687893304496471"
         instagram: "daphnekwon"
@@ -55,6 +56,7 @@
     members:
       -
         name: "Bilal"
+        website: "http://www.bilalallawala.com/"
         twitter: "bilal_allawala"
         google: "107755310216930698343"
         github: "BilalA"
@@ -70,6 +72,7 @@
         github: "maddios"
       -
         name: "Joe"
+        website: "http://JoeAnzalone.com"
         twitter: "HTMLbyJoe"
         google: "+JoeAnzaloneOfficial"
         instagram: "PicsByJoe"
@@ -82,12 +85,14 @@
         github: "NickTraitouros"
       -
         name: "Paul"
+        website: "http://www.paulblakey.com/"
         twitter: "pblakey"
         google: "101382335313676375920"
         instagram: "newtechnology"
         github: "paulrblakey"
       -
         name: "Rich"
+        website: "http://mowattmedia.com/"
         twitter: "richardmowatt1"
         google: "111815035101377718786"
         github: "rbmowatt"
