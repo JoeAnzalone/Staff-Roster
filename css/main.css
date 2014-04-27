@@ -144,6 +144,10 @@ nav a:focus {
     vertical-align: top;
 }
 
+.staff-members .links {
+    min-height: 30px;
+}
+
 .staff-members .links .username {
     position: absolute;
     width: 1px;
