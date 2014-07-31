@@ -10,5 +10,3 @@ Installation
 All the data is stored in `_data/staff.yml` in [YAML](http://www.yaml.org/) format so if you'd like to make changes and preview them locally, you'll need to [install Jekyll](http://jekyllrb.com/docs/installation/) and run the following command:
 
     jekyll serve -w
-
-Once you're happy with your changes, be sure to merge them to the `gh-pages` branch.
