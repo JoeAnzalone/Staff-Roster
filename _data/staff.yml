@@ -149,10 +149,6 @@
         name: "Gail"
         twitter: "gailkoerner"
         google: "113723042809827710699"
-      -
-        name: "Seth"
-        twitter: "sethfleischman"
-        google: "102096056231163436930"
   -
     name: "Sys Ops"
     slug: "sys-ops"
