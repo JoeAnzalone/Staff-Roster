@@ -34,6 +34,9 @@ layout: default
                 {% if member.github %}
                     <a title="Follow {{ member.name }} on GitHub" class="github" href="https://github.com/{{ member.github }}" target="_blank"><i class="fa fa-github"></i><span class="username">{{ member.github }}</span></a>
                 {% endif %}
+                {% if member.facebook %}
+                    <a title="Follow {{ member.name }} on Facebook" class="facebook" href="https://facebook.com/{{ member.facebook }}" target="_blank"><i class="fa fa-facebook-square"></i><span class="username">{{ member.facebook }}</span></a>
+                {% endif %}
             </div>
             {% if member.google %}
                 <div class="g-wrapper"><div class="g-person" data-width="180" data-height="260" data-href="//plus.google.com/u/0/{{ member.google }}" data-rel="author"></div></div>
