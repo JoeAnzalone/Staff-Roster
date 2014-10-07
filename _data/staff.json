@@ -1,0 +1,179 @@
+[
+  {
+    "name": "Exec",
+    "members": [
+      {
+        "twitter": "bhil",
+        "google": "110094123542948505691",
+        "name": "Bill",
+        "instagram": "billhildebolt"
+      },
+      {
+        "website": "http://www.girlfounder.com/",
+        "twitter": "daphnekwon",
+        "google": "115877687893304496471",
+        "name": "Daphne",
+        "instagram": "daphnekwon"
+      },
+      {
+        "twitter": "jessicagnon",
+        "google": "103866814298179745271",
+        "name": "Jess",
+        "instagram": "tctmommy"
+      }
+    ],
+    "slug": "exec"
+  },
+  {
+    "name": "Product Managers",
+    "members": [
+      {
+        "github": "dqmcmanus",
+        "twitter": null,
+        "google": "103523117099997170256",
+        "instagram": "dmac20",
+        "name": "Dan"
+      },
+      {
+        "google": "117609652861044335937",
+        "name": "Jaynth"
+      },
+      {
+        "twitter": "MattKivitz",
+        "google": "102387259114433977151",
+        "name": "Matt",
+        "github": "mattkivitz"
+      }
+    ],
+    "slug": "product-managers"
+  },
+  {
+    "name": "Developers",
+    "members": [
+      {
+        "twitter": "CarlSubick",
+        "google": "107298461015506871230",
+        "name": "Carl",
+        "github": "carlsubick"
+      },
+      {
+        "twitter": "maddios69",
+        "google": "114174765781470526249",
+        "name": "Eugene",
+        "github": "maddios"
+      },
+      {
+        "website": "http://javier-a-velazquez.com",
+        "google": "112015144344933783319",
+        "name": "Javier",
+        "twitter": "papajuanito",
+        "instagram": "papajuanito",
+        "github": "papajuanito"
+      },
+      {
+        "website": "http://JoeAnzalone.com",
+        "google": "+JoeAnzaloneOfficial",
+        "name": "Joe",
+        "twitter": "HTMLbyJoe",
+        "instagram": "PicsByJoe",
+        "github": "JoeAnzalone"
+      },
+      {
+        "website": "http://www.nicktraitouros.com/",
+        "google": "113269033307173391881",
+        "name": "Nick",
+        "twitter": "NickTraitouros",
+        "instagram": "nicktraitouros",
+        "github": "NickTraitouros"
+      },
+      {
+        "website": "http://www.paulblakey.com/",
+        "google": "101382335313676375920",
+        "name": "Paul",
+        "twitter": "pblakey",
+        "instagram": "newtechnology",
+        "github": "paulrblakey"
+      },
+      {
+        "website": "http://mowattmedia.com/",
+        "twitter": "richardmowatt1",
+        "google": "111815035101377718786",
+        "name": "Rich",
+        "github": "rmowatt-public"
+      }
+    ],
+    "slug": "developers"
+  },
+  {
+    "name": "Content",
+    "members": [
+      {
+        "twitter": "ERoss_Traveler",
+        "google": "103068923012073536246",
+        "name": "Emily",
+        "instagram": "eross711"
+      },
+      {
+        "twitter": "NKivitz",
+        "google": "104244224637768825853",
+        "name": "Nicole",
+        "instagram": "nkivitz"
+      },
+      {
+        "twitter": "tmcantwell",
+        "google": "108988527483976594597",
+        "name": "Teresa",
+        "instagram": "tmcantwell"
+      }
+    ],
+    "slug": "content"
+  },
+  {
+    "name": "Account Management",
+    "members": [
+      {
+        "twitter": "rnene",
+        "google": "114895013532261371100",
+        "name": "Jeanine"
+      }
+    ],
+    "slug": "account-management"
+  },
+  {
+    "name": "Sales",
+    "members": [
+      {
+        "twitter": "adamrpaul",
+        "google": "109611828675247381139",
+        "name": "Adam"
+      },
+      {
+        "twitter": "AmyJRuss",
+        "google": null,
+        "name": "Amy"
+      },
+      {
+        "twitter": "danasiegal",
+        "google": "114828227483146903466",
+        "name": "Dana"
+      },
+      {
+        "twitter": "gailkoerner",
+        "google": "113723042809827710699",
+        "name": "Gail"
+      }
+    ],
+    "slug": "sales"
+  },
+  {
+    "name": "Sys Ops",
+    "members": [
+      {
+        "twitter": null,
+        "google": "116142996818415208608",
+        "name": "Kiryl"
+      }
+    ],
+    "slug": "sys-ops"
+  }
+]
