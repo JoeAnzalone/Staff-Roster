@@ -115,12 +115,6 @@
         "website": "http://darrianpmack.com"
       },
       {
-        "twitter": "ERoss_Traveler",
-        "google": "103068923012073536246",
-        "name": "Emily",
-        "instagram": "eross711"
-      },
-      {
         "twitter": "NKivitz",
         "google": "104244224637768825853",
         "name": "Nicole",
@@ -138,6 +132,12 @@
   {
     "name": "Account Management",
     "members": [
+      {
+        "twitter": "ERoss_Traveler",
+        "google": "103068923012073536246",
+        "name": "Emily",
+        "instagram": "eross711"
+      },
       {
         "twitter": "rnene",
         "google": "114895013532261371100",
